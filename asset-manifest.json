@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trackerapp/static/css/main.31cd00b7.css",
+    "main.js": "/trackerapp/static/js/main.5983d894.js",
+    "static/js/787.fc58632a.chunk.js": "/trackerapp/static/js/787.fc58632a.chunk.js",
+    "index.html": "/trackerapp/index.html",
+    "main.31cd00b7.css.map": "/trackerapp/static/css/main.31cd00b7.css.map",
+    "main.5983d894.js.map": "/trackerapp/static/js/main.5983d894.js.map",
+    "787.fc58632a.chunk.js.map": "/trackerapp/static/js/787.fc58632a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31cd00b7.css",
+    "static/js/main.5983d894.js"
+  ]
+}
